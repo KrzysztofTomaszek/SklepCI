@@ -1,0 +1,2 @@
+# SklepCI
+Sklep - framework CodeIgniter
